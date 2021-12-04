@@ -2,5 +2,5 @@
 
 baseURL = 'https://githubmof.github.io/blog'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Welcome to mof blog'
 theme = "ananke"
