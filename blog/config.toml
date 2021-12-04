@@ -1,0 +1,6 @@
+# baseURL = 'http://example.org/'
+
+baseURL = 'https://githubmof.github.io/blog'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "ananke"
