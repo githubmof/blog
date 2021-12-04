@@ -1,8 +1,8 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://githubmof.github.io/blog/"
-title = "Welcom to mof blog"
+baseURL = "https://githubmof.github.io/blog"
+title = "Welcome  to  mof's  blog"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
@@ -311,7 +311,7 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通页面
 
-    homeLayout = "posts"
+    homeLayout = "poetry"
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
@@ -345,11 +345,11 @@ uglyURLs = false
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2021-12-04T20:17:43+00:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "reuixiy"
+    #siteTwitter = "reuixiy"
     # 说明：用于 Twitter Cards
 
 
