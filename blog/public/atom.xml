@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">mof&#39;s Blog</title>
+    <subtitle type="html">这是 mof 的 blog，一名「菜鸡」，请多关照！</subtitle>
+    <updated>2021-12-05T10:25:24&#43;08:00</updated>
+    <id>http://localhost:1313/</id>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/" />
+    <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/atom.xml" />
+    <author>
+            <name>mof</name>
+            <uri>http://localhost:1313/</uri>
+            
+                <email>1565752102@qq.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.89.4">Hugo</generator>
+</feed>

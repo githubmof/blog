@@ -2,7 +2,8 @@
 # 站点配置
 
 baseURL = "https://githubmof.github.io/blog"
-title = "Welcome  to  mof's  blog"
+#baseURL = "http://localhost:1313/"
+title = "mof's  blog"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
@@ -106,7 +107,7 @@ uglyURLs = false
     # 头像
     #avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    #website = "https://io-oi.me/"
+    website = ""
     # 推特
     #twitter = "reuixiy"
 
@@ -191,12 +192,12 @@ uglyURLs = false
 
 [menu]
     ## 菜单栏
-    # [[menu.main]]
-    #     pageref = "/"
-    #     name = "首页"
-    #     weight = 1
-    #     pre = "internal"
-    #     post = "home"
+    [[menu.main]]
+         pageref = "/"
+         name = "首页"
+         weight = 1
+         pre = "internal"
+         post = "home"
     [[menu.main]]
         pageref = "/posts/"
         name = "文章"
@@ -227,10 +228,10 @@ uglyURLs = false
     [[menu.main]]
         weight = 7
         identifier = "lang-switcher"
-    # [[menu.main]]
-    #     weight = 8
-    #     identifier = "search"
-    #     post = "search"
+    [[menu.main]]
+         weight = 8
+         identifier = "search"
+         post = "search"
 
 
 
@@ -245,7 +246,7 @@ uglyURLs = false
     enableHeader = true
 
     # 是否自动隐藏
-    enableHeaderAutoHide = false
+    enableHeaderAutoHide = true
     # 说明：仅对弹性布局的顶栏有效
 
     # 是否在首页显示
@@ -315,7 +316,7 @@ uglyURLs = false
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = []
+    homePoetry = ["---","さぁ、実験を始めようか !","","勝利の法則は決まった！"]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
@@ -340,7 +341,7 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。"
+    siteDescription = "这里是 mof 的blog，请多指教！"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
@@ -422,7 +423,7 @@ uglyURLs = false
     displayListTitle = true
 
     # 日期的格式
-    listDateFormat = "1 月 2 日"
+    listDateFormat = "2006.01.02"
     # 注意：请遵循格式 https://gohugo.io/functions/format/
 
     # 日期的位置
@@ -436,9 +437,9 @@ uglyURLs = false
     chineseZodiac = true
 
     # 是否翻译年份（仅对年份标题有效）
-    i18nYear = true
+    i18nYear = false
     # 是否翻译月份（仅对月份标题有效）
-    i18nMonth = true
+    i18nMonth = false
 
 
     ######################################

@@ -6,4 +6,16 @@ draft: false
 
 
 
-well, there is nothing.
+## Welcome to my blog !!!
+
+![img](https://cdn.jsdelivr.net/gh/githubmof/Img/imgaes/202112051213012.jpeg)
+
+
+
+**すごいでしょ？！**
+
+**最高でしょ？！！**
+
+**天才でしょ？！！**
+
+**最悪だ！**

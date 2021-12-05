@@ -7,9 +7,9 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Welcome  to  mof&#39;s  blog</title>
+        <title>mof&#39;s  blog</title>
         <link>https://githubmof.github.io/blog/</link>
-        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <description>这里是 mof 的blog，请多指教！</description>
         <generator>Hugo 0.89.4 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 04 Dec 2021 14:41:40 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 13:14:13 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://githubmof.github.io/blog/rss.xml" />
         
