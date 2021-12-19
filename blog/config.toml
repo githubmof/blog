@@ -3,7 +3,7 @@
 
 baseURL = "https://githubmof.github.io/blog"
 #baseURL = "http://localhost:1313/"
-title = "mof's  blog"
+title = "mof's  blog  (⑉･̆-･̆⑉)"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
@@ -192,12 +192,12 @@ uglyURLs = false
 
 [menu]
     ## 菜单栏
-    [[menu.main]]
-         pageref = "/"
-         name = "首页"
-         weight = 1
-         pre = "internal"
-         post = "home"
+    # [[menu.main]]
+    #      pageref = "/"
+    #      name = "首页"
+    #      weight = 1
+    #      pre = "internal"
+    #      post = "home"
     [[menu.main]]
         pageref = "/posts/"
         name = "文章"
@@ -225,13 +225,13 @@ uglyURLs = false
     [[menu.main]]
         weight = 6
         identifier = "theme-switcher"
-    [[menu.main]]
-        weight = 7
-        identifier = "lang-switcher"
-    [[menu.main]]
-         weight = 8
-         identifier = "search"
-         post = "search"
+    # [[menu.main]]
+    #     weight = 7
+    #     identifier = "lang-switcher"
+    # [[menu.main]]
+    #      weight = 8
+    #      identifier = "search"
+    #      post = "search"
 
 
 
@@ -266,7 +266,6 @@ uglyURLs = false
 
     navHeight = "10em"
     # 说明：菜单栏展开时的高度
-
 
     ######################################
     # 品牌栏（在顶栏内）
@@ -316,7 +315,7 @@ uglyURLs = false
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = ["---","さぁ、実験を始めようか !","","勝利の法則は決まった！"]
+    homePoetry = ["---","さぁ、実験を始めようか !","勝利の法則は決まった！"]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
@@ -341,7 +340,7 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "这里是 mof 的blog，请多指教！"
+    siteDescription = "这里是 mof 的 blog ，请多指教！"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
@@ -563,7 +562,7 @@ uglyURLs = false
     # KaTeX 公式支持（包括化学方程式）
 
     # 是否开启（全局设置）
-    enableKaTeX = false
+    enableKaTeX = true
     # 说明：文章的 Front Matter 中的 `katex`
     #      的优先级高于此处
 
