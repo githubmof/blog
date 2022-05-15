@@ -19,10 +19,96 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 15 May 2022 01:09:01 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2022 13:37:49 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://githubmof.github.io/blog/rss.xml" />
         
+        
+            <item>
+                <title>Audio_test</title>
+                <link>https://githubmof.github.io/blog/posts/audio_test/</link>
+                <guid isPermaLink="true">https://githubmof.github.io/blog/posts/audio_test/</guid>
+                <pubDate>Sun, 15 May 2022 10:52:07 &#43;0800</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;&lt;!DOCTYPE HTML&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+
+  &lt;body&gt;
+    &lt;div&gt;
+        &lt;iframe 
+            src=&#34;https://music.163.com/outchain/player?id=5088631023&amp;type=0&amp;auto=0&amp;height=430&#34;
+            frameborder=&#34;no&#34; 
+            border=&#34;0&#34; 
+            marginwidth=&#34;0&#34; 
+            marginheight=&#34;0&#34;  
+            width=330 
+            height=450
+            &gt;
+        &lt;/iframe&gt;
+        
+    &lt;/div&gt;
+  &lt;/body&gt;
+
+&lt;/html&gt;&lt;br&gt;&lt;/p&gt;
+&lt;!DOCTYPE HTML&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+
+  &lt;body&gt;
+    &lt;div&gt;
+        &lt;iframe 
+            src=&#34;https://music.163.com/outchain/player?id=1472480890&amp;type=2&amp;auto=0&amp;height=66&#34;
+            frameborder=&#34;no&#34; 
+            border=&#34;0&#34; 
+            marginwidth=&#34;0&#34; 
+            marginheight=&#34;0&#34;  
+            width=330 
+            height=86
+            &gt;
+        &lt;/iframe&gt;
+        
+    &lt;/div&gt;
+  &lt;/body&gt;
+
+&lt;/html&gt;
+&lt;p&gt;参考：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.songjiahao.com/archives/90&#34;&gt;Hugo博客添加音乐外链 – SAquariusの梦想屋 (songjiahao.com)&lt;/a&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://githubmof.github.io/blog/categories/test/">test</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://githubmof.github.io/blog/tags/test/">test</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>KapCup新生选拔赛</title>
@@ -262,6 +348,128 @@ e ur ei ur f ir ei ur e ir d
             </item>
         
             <item>
+                <title>Video_test</title>
+                <link>https://githubmof.github.io/blog/posts/video_test/</link>
+                <guid isPermaLink="true">https://githubmof.github.io/blog/posts/video_test/</guid>
+                <pubDate>Mon, 06 Dec 2021 20:29:41 &#43;0800</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;&lt;!DOCTYPE HTML&gt;
+&lt;html&gt;
+
+  &lt;head&gt;
+    
+    &lt;style type=&#34;text/css&#34;&gt;
+      .aspect-ratio {
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 75%;
+      }
+
+      .aspect-ratio iframe {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+      }
+    &lt;/style&gt;
+  &lt;/head&gt;
+
+  &lt;body&gt;
+    &lt;div class=&#34;aspect-ratio&#34;&gt;
+      &lt;iframe
+              src=&#34;https://player.bilibili.com/player.html?bvid=BV15D4y197NU&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34;
+              scrolling=&#34;no&#34; 
+              border=&#34;0&#34; 
+              frameborder=&#34;no&#34; 
+              framespacing=&#34;0&#34; 
+              allowfullscreen=&#34;true&#34;
+              sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;
+              &gt;
+      &lt;/iframe&gt;
+      
+      
+    &lt;/div&gt;
+  &lt;/body&gt;
+
+&lt;/html&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!DOCTYPE HTML&gt;
+&lt;html&gt;
+
+  &lt;head&gt;
+    
+    &lt;style type=&#34;text/css&#34;&gt;
+      .aspect-ratio {
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 75%;
+      }
+
+      .aspect-ratio iframe {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+      }
+    &lt;/style&gt;
+  &lt;/head&gt;
+
+  &lt;body&gt;
+    &lt;div class=&#34;aspect-ratio&#34;&gt;
+      &lt;iframe
+              src=&#34;https://player.bilibili.com/player.html?bvid=BV1ht41167n8&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34;
+              scrolling=&#34;no&#34; 
+              border=&#34;0&#34; 
+              frameborder=&#34;no&#34; 
+              framespacing=&#34;0&#34; 
+              allowfullscreen=&#34;true&#34;
+              sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;
+              &gt;
+      &lt;/iframe&gt;
+      
+      
+    &lt;/div&gt;
+  &lt;/body&gt;
+
+&lt;/html&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;参考：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://caymanhk.gitee.io/posts/006_hugo%E9%80%9A%E8%BF%87shortcodes%E6%B7%BB%E5%8A%A0%E8%A7%86%E9%A2%91/&#34;&gt;Hugo 通过 ShortCodes 添加视频 | Kays Blog ⑅︎◡̈︎* (gitee.io)&lt;/a&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://githubmof.github.io/blog/categories/test/">test</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://githubmof.github.io/blog/tags/test/">test</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
                 <title>Hello_world</title>
                 <link>https://githubmof.github.io/blog/posts/hello_world/</link>
                 <guid isPermaLink="true">https://githubmof.github.io/blog/posts/hello_world/</guid>
@@ -298,7 +506,23 @@ e ur ei ur f ir ei ur e ir d
                 
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://githubmof.github.io/blog/categories/test/">test</category>
+                                
+                            
+                        
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://githubmof.github.io/blog/tags/test/">test</category>
+                                
+                            
                         
                     
                 
