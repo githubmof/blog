@@ -8,17 +8,4 @@ draft: false
 
 <center><font size=7 color=grey>Welcome to My Blog </font></center>
 
-<img src="https://cdn.jsdelivr.net/gh/githubmof/Img/imgaes/202112051213012.jpeg" alt="img" style="zoom: 10%;" />
-
-   
-
-
-
-
-
-​               
-
-
-
-
-
+<img src="https://gitee.com/giteemof/img/raw/master/img/202206051739186.jpg" alt="w" style="zoom:5%;" />
