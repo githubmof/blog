@@ -8,7 +8,7 @@ tags: ["CTF"]
 
 
 
-# KapCup新生选拔赛
+## KapCup新生选拔赛
 
 ### MISC
 
@@ -46,11 +46,11 @@ tags: ["CTF"]
 
 #### 多拉贡
 
-> ![](https://cdn.jsdelivr.net/gh/githubmof/Img/imgaes/202112071002760.png)
+> <img src="https://gitee.com/giteemof/img/raw/master/img/202206051622981.png" alt="202112071002760" style="zoom:100%;" />
 
 一张奇怪符号的图，看到多拉贡，想到日语的龙，应该是龙语，找到龙语对应表
 
-<img src="https://cdn.jsdelivr.net/gh/githubmof/Img/imgaes/202112071006101.jpg" alt="img" style="zoom:40%"/>
+<img src="https://gitee.com/giteemof/img/raw/master/img/202206051623919.jpg" alt="202112071006101" style="zoom:50%;" />
 
 翻译后为：
 
@@ -213,7 +213,4 @@ print(long_to_bytes(pow(c,d,n)))
 
 ### 总结
 
-
-
 1. 多换个搜索引擎查，必应、谷歌、百度
-

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">mof&#39;s blog (⑉･̆-･̆⑉)</title>
     <subtitle type="html">欢迎来到 mof 的blog，请多指教！</subtitle>
-    <updated>2022-05-15T15:28:10&#43;08:00</updated>
+    <updated>2022-06-05T16:27:08&#43;08:00</updated>
     <id>https://githubmof.github.io/blog/</id>
     <link rel="alternate" type="text/html" href="https://githubmof.github.io/blog/" />
     <link rel="self" type="application/atom&#43;xml" href="https://githubmof.github.io/blog/atom.xml" />
@@ -108,7 +108,7 @@
             <title type="text">KapCup新生选拔赛</title>
             <link rel="alternate" type="text/html" href="https://githubmof.github.io/blog/posts/kapcup%E6%96%B0%E7%94%9F%E9%80%89%E6%8B%94%E8%B5%9B/" />
             <id>https://githubmof.github.io/blog/posts/kapcup%E6%96%B0%E7%94%9F%E9%80%89%E6%8B%94%E8%B5%9B/</id>
-            <updated>2022-05-15T15:05:31&#43;08:00</updated>
+            <updated>2022-06-05T16:25:05&#43;08:00</updated>
             <published>2021-12-11T13:45:00&#43;08:00</published>
             <author>
                     <name>mof</name>
@@ -116,7 +116,7 @@
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">KapCup新生选拔赛 MISC check in flag in rules 在答题界面的RULES中发现Kap0k{this_……</summary>
             
-                <content type="html">&lt;h1 id=&#34;kapcup新生选拔赛&#34;&gt;KapCup新生选拔赛&lt;/h1&gt;
+                <content type="html">&lt;h2 id=&#34;kapcup新生选拔赛&#34;&gt;KapCup新生选拔赛&lt;/h2&gt;
 &lt;h3 id=&#34;misc&#34;&gt;MISC&lt;/h3&gt;
 &lt;h4 id=&#34;check-in&#34;&gt;check in&lt;/h4&gt;
 &lt;blockquote&gt;
@@ -139,10 +139,10 @@
 &lt;p&gt;得到 &lt;strong&gt;Kap0k{daifu_encode_the_flag}&lt;/strong&gt;&lt;/p&gt;
 &lt;h4 id=&#34;多拉贡&#34;&gt;多拉贡&lt;/h4&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/githubmof/Img/imgaes/202112071002760.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://gitee.com/giteemof/img/raw/master/img/202206051622981.png&#34; alt=&#34;202112071002760&#34; style=&#34;zoom:100%;&#34; /&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;一张奇怪符号的图，看到多拉贡，想到日语的龙，应该是龙语，找到龙语对应表&lt;/p&gt;
-&lt;img src=&#34;https://cdn.jsdelivr.net/gh/githubmof/Img/imgaes/202112071006101.jpg&#34; alt=&#34;img&#34; style=&#34;zoom:40%&#34;/&gt;
+&lt;img src=&#34;https://gitee.com/giteemof/img/raw/master/img/202206051623919.jpg&#34; alt=&#34;202112071006101&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;翻译后为：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
